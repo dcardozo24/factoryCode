@@ -4,4 +4,5 @@ puts "Feature 2 / Mensajería entre usuarios del pago movil"
 puts "Cambio Raquelina"
 puts "Bruno Aguilera"
 puts "Cambio Victor"
-
+puts "Eduardo"
+puts "Luis"
