@@ -1,2 +1,0 @@
-Pago factura personal
-
